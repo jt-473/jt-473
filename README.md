@@ -25,7 +25,6 @@
 
 <br/><br/>
 
-<a href="https://www.jovan-tomy.com/"><img src="https://img.shields.io/badge/Portfolio-jovan--tomy.com-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/jovan-tomy-077b1a32a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="linkedin" /></a>
 <a href="mailto:jovantomy@icloud.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-A855F7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1b27" alt="email" /></a>
 <a href="https://github.com/jt-473"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="github" /></a>
@@ -360,7 +359,6 @@ open_to:
 <a href="mailto:jovantomy@icloud.com"><img src="https://img.shields.io/badge/Gmail-jovantomy%40icloud.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 <a href="https://www.linkedin.com/in/jovan-tomy-077b1a32a/"><img src="https://img.shields.io/badge/LinkedIn-Jovan%20Tomy-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
 <a href="https://github.com/jt-473"><img src="https://img.shields.io/badge/GitHub-jt--473-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
-<a href="https://www.jovan-tomy.com/"><img src="https://img.shields.io/badge/Portfolio-jovan--tomy.com-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" /></a>
 
 </div>
 
