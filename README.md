@@ -11,15 +11,15 @@
 <!-- ============================= HEADER ============================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=200&section=header&text=Jovan%20Tomy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sport%20Science%20%C2%B7%20Data%20%C2%B7%20Software%20Builder&descSize=18&descAlignY=60" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=200&section=header&text=Jovan%20Tomy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Second%20Year%20University%20Student%20%C2%B7%20Data%20%C2%B7%20Software&descSize=18&descAlignY=60" alt="header banner" />
 
 <a href="https://github.com/jt-473">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Sport+%26+Exercise+Science+Student+%40+Ulster;Performance+Analyst+%7C+Data+Science;Python+%7C+JavaScript+%7C+SQL;Co-Founder+%40+Lumideck+%E2%80%A2+Hackathon+Runner-Up" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Second+Year+University+Student;Performance+Analyst+%7C+Data+Science;Python+%7C+JavaScript+%7C+SQL;Co-Founder+%40+Lumideck+%E2%80%A2+Hackathon+Runner-Up" alt="typing animation" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BSc%20Sport%20%26%20Exercise%20Science-Ulster%20University-6D28D9?style=flat-square&labelColor=1a1b27" alt="degree" />
+<img src="https://img.shields.io/badge/Second%20Year%20Student-Ulster%20University-6D28D9?style=flat-square&labelColor=1a1b27" alt="university" />
 <img src="https://img.shields.io/badge/Dean's%20List-2024%2F25-8B5CF6?style=flat-square&labelColor=1a1b27" alt="deans list" />
 <img src="https://img.shields.io/badge/📍-Belfast%2C%20Northern%20Ireland-A855F7?style=flat-square&labelColor=1a1b27" alt="location" />
 
@@ -41,27 +41,27 @@
 ---
 
 <!-- ============================= ABOUT ============================= -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About
+## 👋 About
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
 
-I am a **Sport and Exercise Science student at Ulster University** who builds software on the side and treats data as a training tool.
+I am a **second-year university student** who builds software and works with data.
 
-My work sits where **performance analysis, data science, and product building** meet. On the sport side I coach, analyse match footage, and run physiological testing. On the technical side I ship Python data pipelines, full-stack apps, and early-stage startup products.
+My work sits where **data science, full-stack development, and product building** meet. I ship Python data pipelines, web apps, and early-stage startup products, turning messy data into clear, usable insight.
 
-- Analysing performance data as a **Performance Analyst Intern** at Performa Sports
+- Working as a **Performance Analyst Intern**, turning footage and data into insight
 - Building data science projects in **Python** (49,000+ match dataset, World Cup prediction model)
 - Co-founding **Lumideck**, an AI EdTech study platform
 - Placed **2nd at Hack Belfast** with a gamified café-discovery app
 
-**Open to:** internships and graduate roles in performance analysis, sports data science, and software or product engineering.
+**Open to:** internships and graduate roles in data science, software engineering, and product.
 
 <br clear="right"/>
 
 ---
 
 <!-- ============================= TECH STACK ============================= -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -94,7 +94,7 @@ My work sits where **performance analysis, data science, and product building** 
 ---
 
 <!-- ============================= AI / ML & DATA EXPERTISE ============================= -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Data & Applied AI Focus
+## 🧠 Data & Applied AI Focus
 
 <div align="center">
 
@@ -110,7 +110,7 @@ My work sits where **performance analysis, data science, and product building** 
 ---
 
 <!-- ============================= FEATURED PROJECTS ============================= -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Featured Projects
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>⚽ World Cup Predictor — Data Science Series</b></summary>
@@ -210,7 +210,7 @@ A designed and presented EdTech concept for ages 16-25 covering personal finance
 ---
 
 <!-- ============================= EXPERIENCE ============================= -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Experience
+## 💼 Experience
 
 **Performance Analyst Intern** · *Performa Sports, Belfast*
 `Jan 2026 – Feb 2026`
@@ -248,7 +248,7 @@ Turned raw match footage into structured insight coaches could act on.
 ---
 
 <!-- ============================= ACHIEVEMENTS ============================= -->
-## <img src="https://media.giphy.com/media/QLcCBdBemDIqpbK6jA/giphy.gif" width="26"> Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -265,7 +265,7 @@ Turned raw match footage into structured insight coaches could act on.
 ---
 
 <!-- ============================= CERTIFICATIONS & PROGRAMMES ============================= -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> Certifications & Programmes
+## 📜 Certifications & Programmes
 
 **Coaching**
 
@@ -280,7 +280,7 @@ Turned raw match footage into structured insight coaches could act on.
 ---
 
 <!-- ============================= GITHUB ANALYTICS ============================= -->
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="26"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -294,7 +294,7 @@ Turned raw match footage into structured insight coaches could act on.
 ---
 
 <!-- ============================= TROPHIES ============================= -->
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26"> Trophies
+## 🏅 Trophies
 
 <div align="center">
 
@@ -305,7 +305,7 @@ Turned raw match footage into structured insight coaches could act on.
 ---
 
 <!-- ============================= ACTIVITY GRAPH ============================= -->
-## <img src="https://media.giphy.com/media/ZgTubQwjbhZFm92W7C/giphy.gif" width="26"> Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -326,11 +326,11 @@ Turned raw match footage into structured insight coaches could act on.
 ---
 
 <!-- ============================= CURRENT FOCUS ============================= -->
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="26"> Current Focus
+## 🎯 Current Focus
 
 ```yaml
 name: Jovan Tomy
-role: Sport & Exercise Science Student + Software Builder
+role: Second-Year University Student + Software Builder
 based_in: Belfast, Northern Ireland
 
 learning:
@@ -353,7 +353,7 @@ open_to:
 ---
 
 <!-- ============================= CONNECT ============================= -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Connect
+## 🤝 Connect
 
 <div align="center">
 
